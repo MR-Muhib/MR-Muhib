@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmuhib&label=Profile%20views&color=0e75b6&style=flat" alt="mrmuhib" /> </p>
 
-- 👯 I’m looking to collaborate on **Sheba App**
 
 - 💬 Ask me about **React**
 
